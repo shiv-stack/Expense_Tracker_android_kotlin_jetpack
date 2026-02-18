@@ -135,6 +135,6 @@ Android Developer | Kotlin | Jetpack Compose
 ⭐ Support
 
 If you like this project, please ⭐ star the repository.
-<img width="250"" height="240" alt="homecsreen" src="https://github.com/user-attachments/assets/58d8707a-e3bc-4266-b86b-76f75ff31dfb" />
-<img width="250"" height="240" alt="addexpense" src="https://github.com/user-attachments/assets/b4fed895-fc26-43a5-bf2e-89dde9c8ec56" />
+<img width="250" height="240" alt="homecsreen" src="https://github.com/user-attachments/assets/58d8707a-e3bc-4266-b86b-76f75ff31dfb" />
+<img width="250" height="240" alt="addexpense" src="https://github.com/user-attachments/assets/b4fed895-fc26-43a5-bf2e-89dde9c8ec56" />
 
